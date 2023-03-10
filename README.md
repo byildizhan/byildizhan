@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Batuhan.
-- 👀 I’m interested in coding.
-- 🌱 I’m currently 3th grade computer engineering student.
-- 💞️ I’m looking to collaborate on employers
-- 📫 Email:batuhan.yildizhan0@gmail.com
+- Hi, I’m Batuhan.
+- I’m interested in coding.
+- I’m currently 4th grade computer engineering student.
+- I’m looking to collaborate on employers
+- Email:batuhan.yildizhan0@gmail.com
 - Linkedin: www.linkedin.com/in/byildizhan
